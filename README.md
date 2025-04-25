@@ -3,7 +3,7 @@
 Welcome to the PowerShell community for Microsoft Power BI. Here you will find resources and source for PowerShell modules targeting PowerBI.
 
 For questions or issues using the modules, please log an issue and we will respond as quickly as possible.
-
+--
 ## PowerShell modules
 
 Below is a table of the various Power BI PowerShell modules found in this repository.
